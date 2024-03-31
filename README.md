@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=XA8CozY46yQ
 
 ![SSD1963 16 BIT TFT RASPBERRY PI PICO](https://github.com/offpic/SSD1963-16-BIT-TFT-RASPBERRY-PI-PICO/assets/31142397/8a591fc3-7dd4-4a99-9333-030d3e21bfc0)
 
